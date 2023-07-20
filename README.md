@@ -1,0 +1,2 @@
+# IdleFactoryGame
+HypreCasual Idle Game
